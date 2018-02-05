@@ -30,24 +30,25 @@ var numberTwo = false
 
 var numberThree = numberOne == numberTwo
 
-//If statement Coding Challenge
+//If statement Coding Challenge #1
 
-var stringOne = "chocolate"
-var stringTwo = "banana"
+var stringOne = "banana"
 
 
-if stringOne == "chocolate"
+var stringTwo = "chocolate"
+
+if stringOne == "banana"
 {
-    print("I love chocolate")
+    print("I love banana")
 }
 else
 {
     print("error")
 }
 
-if stringTwo == "banana"
+if stringTwo == "chocolate"
 {
-    print("I love bananas"
+    print("I love chocolate"
     )
 }
 else
