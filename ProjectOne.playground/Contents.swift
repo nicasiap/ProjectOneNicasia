@@ -18,3 +18,40 @@ print( myThirdVariable
 //Variable coding challenge #2
 
 let celsius : Float
+let fahrenheit : Float = 50
+
+celsius = (fahrenheit - 32) * (5/9)
+print( "Today is \(celsius) degrees")
+
+//Boolean Variables Coding Challenge #1
+
+var numberOne = false
+var numberTwo = false
+
+var numberThree = numberOne == numberTwo
+
+//If statement Coding Challenge
+
+var stringOne = "chocolate"
+var stringTwo = "banana"
+
+
+if stringOne == "chocolate"
+{
+    print("I love chocolate")
+}
+else
+{
+    print("error")
+}
+
+if stringTwo == "banana"
+{
+    print("I love bananas"
+    )
+}
+else
+
+{
+    print("bye")
+}
